@@ -12,3 +12,5 @@ Y luego ejecutar:
 ````
 ./tarea1
 ````
+
+Probar hasta la opción "Mostrar Categorías", lo demás aún no está terminado. 🥺 
