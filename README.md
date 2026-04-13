@@ -1,5 +1,9 @@
 # Sistema de Gestión de Tareas
 
+## Descripción
+
+Este sistema permite a los usuarios gestionar sus tareas pendientes. Los usuarios pueden registrar tareas mediante categorías creadas por ellos mismos, ver las categorías creadas, ver las tareas registradas, filtrar las tareas por categorías y más. Esta herramienta está diseñada para facilitar la organización de los quehaceres del usuario, permitiendo acceder a ellos de una manera rápida y sencilla.
+
 ## Cómo compilar y ejecutar
 
 Este sistema ha sido desarrollado en lenguaje C y puede ejecutarse fácilmente utilizando [repl.it](https://replit.com/~). Para comenzar a trabajar con el sistema en tu equipo local, sigue estos pasos:
